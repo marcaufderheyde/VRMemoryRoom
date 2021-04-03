@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Scenes/Room_v1.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
